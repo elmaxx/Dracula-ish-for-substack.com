@@ -1,0 +1,14 @@
+/* ==UserStyle==
+@name         dracula-ish for substack.com
+@version      20240530.05.17
+@namespace    https://userstyles.world/user/elmaxx
+@description  dracula-ish for substack.com
+@author       elmaxx
+==/UserStyle== */
+
+@-moz-document domain("substack.com") {
+* {
+    background-color: #282a36 !important;
+    color: #f8f8f2 !important;
+}
+}
